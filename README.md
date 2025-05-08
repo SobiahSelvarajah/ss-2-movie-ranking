@@ -1,4 +1,4 @@
-# ss-1-movie-ranking
+# Movie Ranking
 *** 
 Basic website about movie rankings combining the knowledge of:
 * HTML elements
